@@ -1,0 +1,10 @@
+.dateRangePicker {
+  border-radius: 1em;
+  background-color: pink;
+  padding: '1em';
+
+  [type="date"] {
+    padding: 1em;
+    border-color: blue;
+  }
+}
